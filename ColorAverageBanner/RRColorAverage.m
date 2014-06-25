@@ -38,8 +38,8 @@
     int ratioX, ratioY = 0;
     
     colors = [[NSMutableArray alloc] init];
-    ratioX = CGImageGetWidth(image.CGImage) * 0.01;
-    ratioY = CGImageGetHeight(image.CGImage) * 0.01;
+    ratioX = CGImageGetWidth(image.CGImage) * 0.50;
+    ratioY = CGImageGetHeight(image.CGImage) * 0.50;
     
     for (y = 0; y < CGImageGetHeight(image.CGImage); y += ratioY) {
         for (x = 0; x < CGImageGetWidth(image.CGImage); x += ratioX) {
