@@ -12,8 +12,12 @@
 
 + (UIColor *) calcAverageColor:(NSMutableArray *)colors {
     UIColor *currentColor;
-    CGFloat redColor, greenColor, blueColor = 0.0;
-    CGFloat tmpRedColor, tmpGreenColor, tmpBlueColor = 0.0;
+    CGFloat redColor = 0.0;
+    CGFloat greenColor = 0.0;
+    CGFloat blueColor = 0.0;
+    CGFloat tmpRedColor = 0.0;
+    CGFloat tmpGreenColor = 0.0;
+    CGFloat tmpBlueColor = 0.0;
     
     for (currentColor in colors) {
         [currentColor getRed:&tmpRedColor
