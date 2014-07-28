@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A05B0E3-3A2E-441B-A8C9-997F7BF69860</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testBannerImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FEE7E39A-99C4-4597-BC92-F9C07D882806</key>
+		<string>https://github.com/remirobert/ColorAverageBanner.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>projectTest/testBannerImage.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FEE7E39A-99C4-4597-BC92-F9C07D882806</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/remirobert/ColorAverageBanner.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FEE7E39A-99C4-4597-BC92-F9C07D882806</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FEE7E39A-99C4-4597-BC92-F9C07D882806</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ColorAverageBanner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
